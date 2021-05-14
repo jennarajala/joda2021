@@ -1,4 +1,4 @@
-#Johdanto datatieteeseen K2021
+# Johdanto datatieteeseen K2021
 
 Tästä reposta löytyy Tampereen yliopiston Johdanto datatieteeseen -kurssin kevään 2021 toteutuksen oppimispäiväkirja, sekä osa harjoitustyön koodeista.
 
