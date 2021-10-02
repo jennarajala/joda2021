@@ -5,7 +5,7 @@ Tästä reposta löytyy Tampereen yliopiston Johdanto datatieteeseen -kurssin ke
 Harjoitustyön toteutus on tehty Azureen, ja tarvittaville henkilöille on annettu oikeudet toteutusympäristöön.
 Harjoitustyön toteutusdokumentit on toimitettu suoraan kurssihenkilökunnalle. Alla arkkitehtuurikuva toteutuksesta.
 
-![Arkkitehtuurikuva](https://github.com/jennarajala/joda2021/arkkitehtuuri.png)
+![Arkkitehtuurikuva](arkkitehtuuri.png)
 
 
 
